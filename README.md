@@ -17,5 +17,5 @@ A simple Retrieval-Augmented Generation (RAG) API built with FastAPI and Neon Po
 - Python
 - FastAPI
 - NeonDB (PostgreSQL)
-- SQLAlchemy / Psycopg
+- Psycopg
 - Uvicorn
